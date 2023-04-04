@@ -3,15 +3,25 @@ This code is a command prompt (CMD) batch file that generates a conceptual under
 
 **Here is a brief overview of how it works:**
   It sets the color of the console window to light blue on black (color 17).
+  
   It sets the console window title to "MYP Language Acquisition conceptual understanding generator by Inquiring Practitioner (2023)".
+  
   It defines a label called "loop1" and clears the console screen.
+  
   It sets a variable called "folder" to the batch file folder path.
+  
   It sets a variable called "lookup" to the path of a file called "lookup.txt" in the batch file folder.
+  
   It displays a list of critical concepts and prompts the user to select one by typing a number.
+  
   It sets a variable called "kcname" to the name of the selected key concept.
+  
   It displays a list of related concepts and prompts the user to select two by typing a number.
+  
   It sets variables called "rcname1" and "rcname2" to the names of the selected related concepts.
+  
   It generates a conceptual understanding based on the selected key concept and related concepts.
+  
   Strengths of this CMD bat file include its simplicity and ease of use.  
 
 **Further reading:**
