@@ -27,12 +27,6 @@ This code is a command prompt (CMD) bat file that generates a conceptual underst
 
 **Further reading:**
 
-The CMD code/file has several limitations compared to other languages, such as Python. It is not a programming language in the traditional sense but rather a shell language used for executing commands. 
-
-Considering this is my first ever code for any OS, it is OK. Still, CMD has limited functionality and lacks features that make programming in other languages more straightforward, such as debugging tools, built-in data structures, and third-party libraries. 
-
-Overall, this code is an interesting example of how to use CMD to create a simple interactive program. Future projects of mine will explore other languages like Python, which will be better for more complex tasks or projects requiring more advanced programming features.
-
 The script first sets the "folder" variable to the path of the current directory and then sets the "lookup" variable to the path of the "lookup.txt" file in the same directory. 
 
 The user is presented with a menu to select a key concept, numbered 1 to 4. Based on the user's choice, the script sets the "file" variable to the path of one of the four text files and the "kcname" variable to the name of the selected key concept.
@@ -41,4 +35,8 @@ The user is then prompted to select two related concepts from a list of 20 numbe
 
 The script then reads the selected text file line by line and uses the "findstr" command to search for lines that contain the selected related concepts. The "findstr" command matches the selected related concepts to the "rc1" and "rc2" tokens in the text file. If a match is found, the line is displayed to the user.
 
-The batch and four text files must be in the same directory for the script to work.
+The batch of four text files must be in the same directory as the bat file to work.
+
+Overall, this code is an interesting example of how to use CMD to create a simple interactive program. Future projects of mine will explore other languages like Python, which will be better for more complex tasks or projects requiring more advanced programming features. While the CMD code/file has several limitations compared to other languages, such as Python, it is not a programming language in the traditional sense but rather a shell language used for executing commands. Considering this is my first ever code for any OS, it is OK. Still, CMD has limited functionality and lacks features that make programming in other languages more straightforward, such as debugging tools, built-in data structures, and third-party libraries. 
+
+
