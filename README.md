@@ -37,6 +37,7 @@ The script then reads the selected text file line by line and uses the "findstr"
 
 The batch of four text files must be in the same directory as the bat file to work.
 
-Overall, this code is an interesting example of how to use CMD to create a simple interactive program. Future projects of mine will explore other languages like Python, which will be better for more complex tasks or projects requiring more advanced programming features. While the CMD code/file has several limitations compared to other languages, such as Python, it is not a programming language in the traditional sense but rather a shell language used for executing commands. Considering this is my first ever code for any OS, it is OK. Still, CMD has limited functionality and lacks features that make programming in other languages more straightforward, such as debugging tools, built-in data structures, and third-party libraries. 
+Overall, this code is an interesting example of how to use CMD to create a simple interactive program. 
+Future projects of mine will explore other languages like Python, which will be better for more complex tasks or projects requiring more advanced programming features. While the CMD code/file has several limitations compared to other languages, such as Python, it is not a programming language in the traditional sense but rather a shell language used for executing commands. Considering this is my first ever code for any OS, it is OK. Still, CMD has limited functionality and lacks features that make programming in other languages more straightforward, such as debugging tools, built-in data structures, and third-party libraries. 
 
 
