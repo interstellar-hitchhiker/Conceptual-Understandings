@@ -26,6 +26,7 @@ This code is a command prompt (CMD) batch file that generates a conceptual under
   -Strengths of this CMD bat file include its simplicity and ease of use.  
 
 **Further reading:**
+
 The CMD code/file has several limitations compared to other languages, such as Python. It is not a programming language in the traditional sense but rather a shell language used for executing commands. 
 
 Considering this is my first ever code for any OS, it is OK. Still, CMD has limited functionality and lacks features that make programming in other languages more straightforward, such as debugging tools, built-in data structures, and third-party libraries. 
