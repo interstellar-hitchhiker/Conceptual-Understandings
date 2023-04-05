@@ -62,7 +62,7 @@ Moreover, while some conceptual understandings are well crafted and explicitly u
   
   -Connections and linguistic terms such as clause, phrase, and conjunction
   
-  -Alternatively, generating conceptual understandings from a specific theoretical perspective such as Systemic Functional Linguistics (MAK HAliday),       e.g., Transivity, mood, and appraisal (Ideational Metafunction). 
+  -Alternatively, generating conceptual understandings from a specific theoretical perspective such as Systemic Functional Linguistics (MAK Haliday),       e.g., Transivity, mood, and appraisal (Ideational Metafunction). 
 
 Hmm! 
 
