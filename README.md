@@ -54,7 +54,9 @@ To work, the batch of four text files must be in the same directory as the bat f
 
 **Errors & limitations:**
 
-For some reason, the bat file closes when choosing particularly related concept combinations. Moreover, while some conceptual understandings are well crafted and explicitly use abstract nouns, others do not and could be better articulated. Nevertheless, the idea is there, and it can be adapted. Future conceptual understandings will likely use Python and consider the relationships between macro and micro concepts, such as:
+For some reason, the bat file closes when choosing particularly related concept combinations. There still are a few bugs, but I need help figuring it out...
+
+Moreover, while some conceptual understandings are well crafted and explicitly use abstract nouns, others do not and could be better articulated. Nevertheless, the idea is there, and it can be adapted. Future conceptual understandings will likely use Python and consider the relationships between macro and micro concepts, such as:
 
   -Communication, meaning, pronunciation, and form
   
@@ -74,9 +76,7 @@ Hmm!
 
 Overall, this code is an exciting example of how to use CMD to create a simple interactive program. The challenges and the learning curve of developing the bat file were plentiful! Creating a functional script has been a journey of trial and error for me. Despite the apparent simplicity of the code/shell language, it took me 15 iterations and many hours to arrive at a working version.
 
-I encountered multiple errors, often requiring significant diagnosis and resolution. These issues included problems with the syntax, incorrect pathways, errors related to loops and goto statements, and issues with reading from a spreadsheet and trying to map variables. The debugging process involved extensive troubleshooting in identifying and correcting the underlying issues without specific error codes to guide the process.
-
-There still are a few bugs, but I need help figuring it out...
+I encountered multiple errors, often requiring significant diagnosis and resolution. These issues included problems with the syntax, incorrect pathways, errors related to loops and goto statements, and issues with reading from a spreadsheet and trying to map variables (gave up on that version after about 10hrs due to pathway and powershell errors). The debugging process involved extensive troubleshooting in identifying and correcting the underlying issues without specific error codes to guide the process (ass!). 
 
 Despite these challenges, I continued developing the script until I  arrived at a functional version. This highlights the value of persistence and determination in facing technical challenges. It also underscores the importance of learning from mistakes and continually refining coding skills to develop more efficient and effective scripts.
 
