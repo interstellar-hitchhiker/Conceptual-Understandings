@@ -37,11 +37,22 @@ The script then reads the selected text file line by line and uses the "findstr"
 
 The batch of four text files must be in the same directory as the bat file to work.
 
+**Errors & limitations:**
+For some reason, the bat file closes when choosing particularly related concept combinations. Moreover, while some conceptual understandings are well crafted and explicitly use abstract nouns, others do not and could be better articulated. Nevertheless, the idea is there, and it can be adapted. Future conceptual understandings will likely use Python and consider the relationships between macro and micro concepts, such as:
+  -Communication, meaning, pronunciation, and form
+  -Connections and linguistic terms such as clause, phrase, and conjunction
+  -Or even generate conceptual understandings from a specific theoretical perspective such as Systemic Functional Linguistics (MAK HAliday), e.g., Transivity,      mood, and appraisal (Ideational Metafunction). 
+
+Hmm! 
+Pronunciation is a vital aspect of communication that has the potential to impact both the meaning and the form of the message being conveyed. 
+Conjunctions are vital in effectively communicating ideas by joining phrases and clauses, resulting in more coherent sentences.
+The transitivity of a verb can impact the mood of the sentence, which in turn can affect the speaker's appraisal or evaluation of the action described.
+
 **Final thoughts:**
 
 Overall, this code is an interesting example of how to use CMD to create a simple interactive program. The challenges and the learning curve associated with developing the bat file were plentyful! Creating a functional script has been a journey of trial and error for me. Despite the apparent simplicity of the code/shell language, it took me 15 iterations and many hours to arrive at a working version.
 
-I encountered multiple errors, often requiring significant diagnosis and resolution. These issues included problems with the syntax, incorrect pathways, errors related to loops and goto statements, and issues with reading from a spreadsheet and trying to map variables. The debugging process involved extensive troubleshooting in identifying and correcting the underlying issues without specific error codes to guide the process.
+I encountered multiple errors, often requiring significant diagnosis and resolution. These issues included problems with the syntax, incorrect pathways, errors related to loops and goto statements, and issues with reading from a spreadsheet and trying to map variables. The debugging process involved extensive troubleshooting in identifying and correcting the underlying issues without specific error codes to guide the process. There still are a few bugs but I can not figure it out...
 
 Despite these challenges, I continued developing the script until I  arrived at a functional version. This highlights the value of persistence and determination in facing technical challenges. It also underscores the importance of learning from mistakes and continually refining coding skills to develop more efficient and effective scripts.
 
