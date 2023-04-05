@@ -1,6 +1,20 @@
 # Conceptual-understandings
 This code is a command prompt (CMD) bat file that generates a conceptual understanding based on the fundamental concept and related concepts the user selects. IB MYP and DP teachers of English LA may find this helpful file to glean ideas about the relationship between key and subject-related concepts as a generalization.
 
+**Why conceptual-understandings? In a nutshell, these four books! **
+
+  Erickson, H. L., Lanning, L. A., & French, R. (2017). Concept-Based Curriculum and Instruction for the Thinking Classroom. 
+
+  Lanning, M. (2018). Designing a Concept-Based Curriculum for English Language Arts
+
+  Marschall, C., & French, R. (2019). Concept-Based Inquiry in Action 
+
+  Wiggins, G., & McTighe, J. (2005). Understanding by Design. Association for Supervision and Curriculum Development (ASCD)
+
+The importance of these books lies in their guidance on how to design a unit of study using a conceptual lens, unit strands, and generalizations. By selecting a conceptual lens related to the unit content, curriculum writers can ensure that students understand the significant concept deeply. The unit strands, which break the unit of study into manageable parts, and the webbing process, which brainstorms the unit content and concepts, ensure alignment and depth in identifying topics and concepts under each strand. Finally, the generalizations, representing essential conceptual ideas, ensure that students understand the unit content more deeply. 
+
+I decided that applying these ideas and developing a giant list of conceptual understandings for fun can be a helpful way to reinforce these essential concepts.
+
 **Here is a brief overview of how it works:**
 
   -It sets the color of the console window to light blue on black (color 17).
@@ -45,7 +59,7 @@ For some reason, the bat file closes when choosing particularly related concept 
   
   -Connections and linguistic terms such as clause, phrase, and conjunction
   
-  -Or even generate conceptual understandings from a specific theoretical perspective such as Systemic Functional Linguistics (MAK HAliday), e.g., Transivity,      mood, and appraisal (Ideational Metafunction). 
+  -Alternatively, generating conceptual understandings from a specific theoretical perspective such as Systemic Functional Linguistics (MAK HAliday),       e.g.,Transivity, mood, and appraisal (Ideational Metafunction). 
 
 Hmm! 
 
