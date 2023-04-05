@@ -40,14 +40,20 @@ The batch of four text files must be in the same directory as the bat file to wo
 **Errors & limitations:**
 
 For some reason, the bat file closes when choosing particularly related concept combinations. Moreover, while some conceptual understandings are well crafted and explicitly use abstract nouns, others do not and could be better articulated. Nevertheless, the idea is there, and it can be adapted. Future conceptual understandings will likely use Python and consider the relationships between macro and micro concepts, such as:
+
   -Communication, meaning, pronunciation, and form
+  
   -Connections and linguistic terms such as clause, phrase, and conjunction
+  
   -Or even generate conceptual understandings from a specific theoretical perspective such as Systemic Functional Linguistics (MAK HAliday), e.g., Transivity,      mood, and appraisal (Ideational Metafunction). 
 
 Hmm! 
-Pronunciation is a vital aspect of communication that has the potential to impact both the meaning and the form of the message being conveyed. 
-Conjunctions are vital in effectively communicating ideas by joining phrases and clauses, resulting in more coherent sentences.
-The transitivity of a verb can impact the mood of the sentence, which in turn can affect the speaker's appraisal or evaluation of the action described.
+
+  -Pronunciation is a vital aspect of communication that has the potential to impact both the meaning and the form of the message being conveyed. 
+  
+  -Conjunctions are vital in effectively communicating ideas by joining phrases and clauses, resulting in more coherent sentences.
+
+  -The transitivity of a verb can impact the mood of the sentence, which in turn can affect the speaker's appraisal or evaluation of the action described.
 
 **Final thoughts:**
 
