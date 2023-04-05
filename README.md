@@ -11,7 +11,7 @@ This code is a command prompt (CMD) bat file that generates a conceptual underst
 
   Wiggins, G., & McTighe, J. (2005). Understanding by Design. Association for Supervision and Curriculum Development (ASCD)
 
-The importance of these books lies in their guidance on how to design a unit of study using a conceptual lens, unit strands, and generalizations. By selecting a conceptual lens related to the unit content, curriculum writers can ensure that students understand the significant concept deeply. The unit strands, which break the unit of study into manageable parts, and the webbing process, which brainstorms the unit content and concepts, ensure alignment and depth in identifying topics and concepts under each strand. Finally, the generalizations, representing essential conceptual ideas, ensure that students understand the unit content more deeply. 
+The importance of these books lies in their guidance on how to design a unit of study using a conceptual lens, unit strands, and generalizations. By selecting a conceptual lens related to the unit content, curriculum writers can ensure that students understand the significant concept deeply. The unit strands, which break the unit of study into manageable parts, and the webbing process, which brainstorms the unit content and concepts, ensure alignment and depth in identifying topics and concepts under each strand. Finally, the generalizations, representing essential conceptual ideas, ensure that students understand the unit content more deeply (i.e. essential understnadings?). 
 
 I decided that applying these ideas and developing a giant list of conceptual understandings for fun can be a helpful way to reinforce these essential concepts.
 
