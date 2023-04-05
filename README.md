@@ -1,5 +1,5 @@
 # Conceptual-understandings
-This code is a command prompt (CMD) bat file that generates a conceptual understanding based on the fundamental concept and related concepts the user selects. IB MYP and DP teachers of Language Acquisition may find this helpful file to glean ideas about the relationship between key and subject-related concepts as a generalization for a unit of inquiry.
+This code is a command prompt (CMD) bat file that selects a pre-written a conceptual understanding based on the fundamental concept and related concepts the user selects. IB MYP and DP teachers of Language Acquisition may find this helpful file to glean ideas about the relationship between key and subject-related concepts as a generalization for a unit of inquiry.
 
 **Why conceptual understandings? In a nutshell, these four books!**
 
