@@ -54,7 +54,7 @@ To work, the batch of four text files must be in the same directory as the bat f
 
 **Errors & limitations:**
 
-For some reason, the bat file closes when choosing certain related concept combinations. There still are a few bugs, but I need help figuring it out...
+There still are a few bugs, but I need help figuring it out...For some reason, the bat file closes when choosing certain related concept combinations, e.g., the two-word concept combos like Word Choice or Stylistic Choices. As a workaround, word combos of 2 or more, e.g., Point of View = POV, were made into acronyms or linked via underscore, e.g., Word_Choice. There still are a few bugs, but I need help figuring it out as it still crashes when selecting, e.g., Word_Choice and Stylistic_Choices. 
 
 Moreover, while some conceptual understandings are well crafted and explicitly use abstract nouns, others do not and could be better articulated. Nevertheless, the idea is there, and it can be adapted. Future conceptual understandings will likely use Python and consider the relationships between macro and micro concepts, such as:
 
