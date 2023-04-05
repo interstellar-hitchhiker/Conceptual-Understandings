@@ -1,7 +1,7 @@
 # Conceptual-understandings
-This code is a command prompt (CMD) bat file that generates a conceptual understanding based on the fundamental concept and related concepts the user selects. IB MYP and DP teachers of Language Acqustion may find this helpful file to glean ideas about the relationship between key and subject-related concepts as a generalization for a unit of inquiry.
+This code is a command prompt (CMD) bat file that generates a conceptual understanding based on the fundamental concept and related concepts the user selects. IB MYP and DP teachers of Language Acquisition may find this helpful file to glean ideas about the relationship between key and subject-related concepts as a generalization for a unit of inquiry.
 
-**Why conceptual-understandings? In a nutshell, these four books!**
+**Why conceptual understandings? In a nutshell, these four books!**
 
   Erickson, H. L., Lanning, L. A., & French, R. (2017). Concept-Based Curriculum and Instruction for the Thinking Classroom. 
 
@@ -11,7 +11,7 @@ This code is a command prompt (CMD) bat file that generates a conceptual underst
 
   Wiggins, G., & McTighe, J. (2005). Understanding by Design. Association for Supervision and Curriculum Development (ASCD)
 
-The importance of these books lies in their guidance on how to design a unit of study using a conceptual lens, unit strands, and generalizations. By selecting a conceptual lens related to the unit content, curriculum writers can ensure that students understand the significant concept deeply. The unit strands, which break the unit of study into manageable parts, and the webbing process, which brainstorms the unit content and concepts, ensure alignment and depth in identifying topics and concepts under each strand. Finally, the generalizations, representing essential conceptual ideas, ensure that students understand the unit content more deeply (i.e. essential understnadings?). 
+The importance of these books lies in their guidance on how to design a unit of study using a conceptual lens, unit strands, and generalizations. By selecting a conceptual lens related to the unit content, curriculum writers can ensure that students understand the significant concept deeply. The unit strands, which break the unit of study into manageable parts, and the webbing process, which brainstorms the unit content and concepts, ensure alignment and depth in identifying topics and concepts under each strand. Finally, the generalizations, representing essential conceptual ideas, ensure that students understand the unit content more deeply (i.e., essential understandings?). 
 
 I decided that applying these ideas and developing a giant list of conceptual understandings for fun can be a helpful way to reinforce these essential concepts.
 
@@ -43,13 +43,13 @@ I decided that applying these ideas and developing a giant list of conceptual un
 
 The script first sets the "folder" variable to the path of the current directory and then sets the "lookup" variable to the path of the "lookup.txt" file in the same directory. 
 
-The user is presented with a menu to select a key concept, numbered 1 to 4. Based on the user's choice, the script sets the "file" variable to the path of one of the four text files and the "kcname" variable to the name of the selected key concept.
+The user is presented with a menu to select a key concept numbered 1 to 4. Based on the user's choice, the script sets the "file" variable to the path of one of the four text files and the "kcname" variable to the name of the selected key concept.
 
 The user is then prompted to select two related concepts from a list of 20 numbered 1 to 20. The script checks that the two related concepts are not the same and sets the "rcname1" and "rcname2" variables to the names of the selected related concepts.
 
 The script then reads the selected text file line by line and uses the "findstr" command to search for lines that contain the selected related concepts. The "findstr" command matches the selected related concepts to the "rc1" and "rc2" tokens in the text file. If a match is found, the line is displayed to the user.
 
-The batch of four text files must be in the same directory as the bat file to work.
+To work, the batch of four text files must be in the same directory as the bat file.
 
 **Errors & limitations:**
 
@@ -59,7 +59,7 @@ For some reason, the bat file closes when choosing particularly related concept 
   
   -Connections and linguistic terms such as clause, phrase, and conjunction
   
-  -Alternatively, generating conceptual understandings from a specific theoretical perspective such as Systemic Functional Linguistics (MAK HAliday),       e.g.,Transivity, mood, and appraisal (Ideational Metafunction). 
+  -Alternatively, generating conceptual understandings from a specific theoretical perspective such as Systemic Functional Linguistics (MAK HAliday),       e.g., Transivity, mood, and appraisal (Ideational Metafunction). 
 
 Hmm! 
 
@@ -71,9 +71,11 @@ Hmm!
 
 **Final thoughts:**
 
-Overall, this code is an interesting example of how to use CMD to create a simple interactive program. The challenges and the learning curve associated with developing the bat file were plentyful! Creating a functional script has been a journey of trial and error for me. Despite the apparent simplicity of the code/shell language, it took me 15 iterations and many hours to arrive at a working version.
+Overall, this code is an exciting example of how to use CMD to create a simple interactive program. The challenges and the learning curve of developing the bat file were plentiful! Creating a functional script has been a journey of trial and error for me. Despite the apparent simplicity of the code/shell language, it took me 15 iterations and many hours to arrive at a working version.
 
-I encountered multiple errors, often requiring significant diagnosis and resolution. These issues included problems with the syntax, incorrect pathways, errors related to loops and goto statements, and issues with reading from a spreadsheet and trying to map variables. The debugging process involved extensive troubleshooting in identifying and correcting the underlying issues without specific error codes to guide the process. There still are a few bugs but I can not figure it out...
+I encountered multiple errors, often requiring significant diagnosis and resolution. These issues included problems with the syntax, incorrect pathways, errors related to loops and goto statements, and issues with reading from a spreadsheet and trying to map variables. The debugging process involved extensive troubleshooting in identifying and correcting the underlying issues without specific error codes to guide the process.
+
+There still are a few bugs, but I need help figuring it out...
 
 Despite these challenges, I continued developing the script until I  arrived at a functional version. This highlights the value of persistence and determination in facing technical challenges. It also underscores the importance of learning from mistakes and continually refining coding skills to develop more efficient and effective scripts.
 
