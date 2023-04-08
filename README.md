@@ -16,7 +16,7 @@ I decided that applying these ideas and developing a giant list of conceptual un
 
 **Here is a brief overview of how it works:**
 
-This code is a command prompt (CMD) bat file that selects a pre-written a conceptual understanding based on the fundamental concept and related concepts the user selects. IB MYP and DP teachers of Language Acquisition may find this a helpful file to glean ideas about the relationship between key and subject-related concepts as a generalization for a unit of inquiry.
+This code is a command prompt (CMD) bat file that selects a pre-written conceptual understanding based on the fundamental concept and related concepts the user selects. IB MYP and DP teachers of Language Acquisition may find this a helpful file to glean ideas about the relationship between key and subject-related concepts as a generalization for a unit of inquiry.
 
   -It sets the color of the console window to light blue on black (color 17).
   
@@ -26,7 +26,7 @@ This code is a command prompt (CMD) bat file that selects a pre-written a concep
   
   -It sets a variable called "folder" to the batch file folder path.
   
-  -It sets a variable called "lookup" to the path of a file called "lookup.txt" in the batch file folder.
+  -It sets a variable called "lookup" to the path of a file called, "e.g., communication.txt" in the batch file folder.
   
   -It displays a list of critical concepts and prompts the user to select one by typing a number.
   
@@ -76,10 +76,8 @@ Hmm!
 
 Overall, this code is an exciting example of how to use CMD to create a simple interactive program. The challenges and the learning curve of developing the bat file were plentiful! Creating a functional script has been a journey of trial and error for me. Despite the apparent simplicity of the code/shell language, it took me 15 iterations and many hours to arrive at a working version.
 
-I encountered multiple errors, often requiring significant diagnosis and resolution. These issues included problems with the syntax, incorrect pathways, errors related to loops and goto statements, and issues with reading from a spreadsheet and trying to map variables (gave up on that version after about 10hrs due to pathway and powershell errors). The debugging process involved extensive troubleshooting in identifying and correcting the underlying issues without specific error codes to guide the process (ass!). 
+I encountered multiple errors, often requiring significant diagnosis and resolution. These issues included problems with syntax, incorrect pathways, errors related to loops and goto statements, and issues with reading from a spreadsheet and trying to map variables (I gave up on that version after about 10hrs due to pathway) PowerShell errors). The debugging process involved extensive troubleshooting in identifying and correcting the underlying issues without specific error codes to guide the process (ass!). 
 
 Despite these challenges, I continued developing the script until I  arrived at a functional version. This highlights the value of persistence and determination in facing technical challenges. It also underscores the importance of learning from mistakes and continually refining coding skills to develop more efficient and effective scripts.
 
 Future projects of mine will explore other languages like Python, which will be better for more complex tasks or projects requiring more advanced programming features. While the CMD code/file has several limitations compared to other languages, such as Python, it is not a programming language in the traditional sense but rather a shell language used for executing commands. Considering this is my first ever code for any OS, it is OK. Still, CMD has limited functionality and lacks features that make programming in other languages more straightforward, such as debugging tools, built-in data structures, and third-party libraries. 
-
-
